@@ -1,5 +1,50 @@
-# 💫 About Me:
-👨‍💻 I’m currently working on<br><br>Alumni Connect Platform – building features like posts, events, dashboards, and role-based access<br>Backend-heavy projects using Spring Boot & MongoDB/PostgreSQL<br>Strengthening DSA (Trees, Graphs, DP) for product-based companies<br><br>🤝 I’m looking to collaborate on<br><br>Java / Spring Boot backend projects<br>Full-stack projects where backend architecture actually matters<br>Open-source projects related to system design, APIs, or developer tools<br><br>🆘 I’m looking for help with<br><br>Writing clean, scalable backend architecture<br>Understanding advanced system design & microservices<br>Improving consistency and speed in DSA problem solving<br><br>🌱 I’m currently learning<br><br>Spring Boot (advanced concepts)<br>React for frontend integration<br>MongoDB and backend optimizations<br>Basics of System Design & Microservices<br><br>💬 Ask me about<br><br>Java & Spring Boot<br>Backend project structuring<br>College tech projects & hackathons<br>How to start backend development the right way<br><br>⚡ Fun fact<br><br>I chose Java & Spring Boot in a MERN-heavy crowd — turns out swimming upstream builds stronger devs.
+# 💫 About Me
+
+## 👨‍💻 Currently Building
+- Alumni Connect Platform  
+  - Role-based access control  
+  - Event management  
+  - Dashboards  
+  - Scalable REST APIs  
+- Backend-focused applications using Spring Boot with MongoDB & PostgreSQL  
+- Strengthening DSA (Trees, Graphs, Dynamic Programming) for product-based roles  
+
+---
+
+## 🤝 Open to Collaborate On
+- Java / Spring Boot backend systems  
+- Full-stack applications with strong backend architecture  
+- Open-source projects related to APIs, system design, or developer tools  
+
+---
+
+## 🆘 Actively Improving In
+- Designing clean, scalable backend architectures  
+- System Design fundamentals & microservices patterns  
+- Writing optimized and consistent DSA solutions  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Spring Boot (Security, Performance Tuning, Architecture Patterns)  
+- React for frontend-backend integration  
+- Database optimization (MongoDB & PostgreSQL)  
+- System Design fundamentals  
+- Generative AI fundamentals & AI-powered backend integrations  
+
+---
+
+## 💬 Ask Me About
+- Java & Spring Boot development  
+- Backend project structuring  
+- Building scalable REST APIs  
+- Getting started with backend development  
+
+---
+
+## ⚡ Fun Fact
+I chose Java & Spring Boot in a predominantly MERN-focused environment —  
+and it shaped me into a backend-first, architecture-driven developer.
 
 
 ## 🌐 Socials:
