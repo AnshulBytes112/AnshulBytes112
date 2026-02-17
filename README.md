@@ -26,9 +26,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced Spring Boot (Security, Performance Tuning, Architecture Patterns)  
-- React for frontend-backend integration  
-- Database optimization (MongoDB & PostgreSQL)  
+- Advanced Spring Boot (Security, Performance Tuning, Architecture Patterns,Microservices)   
 - System Design fundamentals  
 - Generative AI fundamentals & AI-powered backend integrations  
 
