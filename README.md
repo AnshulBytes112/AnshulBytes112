@@ -1,48 +1,80 @@
-# 💫 About Me
+# Hi there, I'm Anshul 👋
 
-## 👨‍💻 Currently Building
-- Alumni Connect Platform  
-  - Role-based access control  
-  - Event management  
-  - Dashboards  
-  - Scalable REST APIs  
-- Backend-focused applications using Spring Boot with MongoDB & PostgreSQL  
-- Strengthening DSA (Trees, Graphs, Dynamic Programming) for product-based roles  
+I'm a Software Engineering student passionate about building backend systems with **Java** and **Spring Boot**. I enjoy designing APIs, working with databases, and turning ideas into production-ready applications.
+
+Most of my work revolves around backend development, but I also build full-stack applications using **React** whenever a project needs it.
+
+## 🚀 What I'm Working On
+
+* 🎓 **Alumni Connect** – A full-stack alumni networking platform featuring authentication, events, job postings, discussion forums, AI-powered resume parsing, and an admin dashboard.
+* ☕ Exploring advanced Spring Boot concepts, microservices, and scalable application design.
+* 🧩 Regularly practicing Data Structures & Algorithms to strengthen problem-solving skills.
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Java
+* JavaScript
+* SQL
+
+**Backend**
+
+* Spring Boot
+* Spring Security
+* REST APIs
+* JWT Authentication
+
+**Frontend**
+
+* React
+* TypeScript
+* Tailwind CSS
+
+**Databases**
+
+* PostgreSQL
+* MongoDB
+* Redis
+
+**Tools**
+
+* Docker
+* Git & GitHub
+* Maven
+* Postman
+* IntelliJ IDEA
+* VS Code
+
+## 📌 Featured Projects
+
+### 🎓 Alumni Connect
+
+A modern alumni networking platform with authentication, role-based access, events, job portal, discussion forums, AI-powered resume parsing, and admin management.
+
+**Tech:** Spring Boot • React • PostgreSQL • MongoDB • Redis
 
 ---
 
-## 🤝 Open to Collaborate On
-- Java / Spring Boot backend systems  
-- Full-stack applications with strong backend architecture  
-- Open-source projects related to APIs, system design, or developer tools  
+### 🏠 RoomieRadar
 
----
+A roommate matching platform that helps users discover compatible roommates using preference-based matching.
 
-## 🆘 Actively Improving In
-- Designing clean, scalable backend architectures  
-- System Design fundamentals & microservices patterns  
-- Writing optimized and consistent DSA solutions  
-
----
+**Tech:** Spring Boot • React • PostgreSQL
 
 ## 🌱 Currently Learning
-- Advanced Spring Boot (Security, Performance Tuning, Architecture Patterns,Microservices)   
-- System Design fundamentals  
-- Generative AI fundamentals & AI-powered backend integrations  
 
----
+* Microservices
+* System Design fundamentals
+* Docker & Kubernetes
+* AI integrations with backend applications
 
-## 💬 Ask Me About
-- Java & Spring Boot development  
-- Backend project structuring  
-- Building scalable REST APIs  
-- Getting started with backend development  
+## 🤝 Let's Connect
 
----
+I'm always interested in collaborating on Java, Spring Boot, or full-stack projects and learning from other developers.
 
-## ⚡ Fun Fact
-I chose Java & Spring Boot in a predominantly MERN-focused environment —  
-and it shaped me into a backend-first, architecture-driven developer.
+Thanks for stopping by!
+
 
 
 ## 🌐 Socials:
